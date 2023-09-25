@@ -1,0 +1,10 @@
+=================================================================
+== Test 1: Concurrent Client Requests
+== Launches concurrent clients (curl) to fetch each possible file
+== from the server and checks that all are successful. Note that
+== you won't be able to pass this test unless your server
+== supports a minimum number of concurrent clients.
+Running test...
+Expected output is in file 'test_results/raw/project_04-1-expected.tmp'
+Actual output is in file 'test_results/raw/project_04-1-actual.tmp'
+Test PASSED
