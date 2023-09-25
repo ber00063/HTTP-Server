@@ -6,3 +6,5 @@ I extended the implementation to a multi-threaded version that allows the server
 utilizes mutexes to safely update the server queue.
 
 Every function implements error handling for function and system calls and safely responds to errors.
+
+The server files were provided by the professor.
